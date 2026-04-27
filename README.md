@@ -5,8 +5,6 @@ Blender addon for importing **Mafia Definitive Edition** `.ires.compiled` mesh f
 
 Supports cars, city buildings, props, and character parts.
 
-![Blender screenshot placeholder](docs/screenshot.png)
-
 ---
 
 ## Features
